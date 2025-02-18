@@ -1,0 +1,11 @@
+	body {background-color: #e9f97f}
+	h1 {color: red; text-align: center; font-size: 200%}
+	h3 {color: blue; text-align: center;}
+	h2 {color: purple; text-align: center; font-family: verdana;}
+	#para1 {text-align: center; color: blue; font-style: italic;}
+	
+	p{
+		color: red;
+		text-align: center;
+		font-family: Arial;
+	}
