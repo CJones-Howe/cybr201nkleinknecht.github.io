@@ -9,3 +9,24 @@
 		text-align: center;
 		font-family: Arial;
 	}
+	
+	.web-links {
+		align-items: center;
+		list-style: none;
+		justify-content: center;
+	}
+	
+	.web-links li {
+		padding: 1px;
+	}
+	
+	.web-links a {
+		text-decoration: none;
+		color: #0000fc;
+		font-size: 24px;
+	}
+	
+	.web-links a:hover {
+		color: blue;
+		text-decoration: underline;
+	}
